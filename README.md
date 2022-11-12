@@ -4,9 +4,9 @@ I've been doing web dev for over 10 years and I also makes indie games in my spa
 
 
 I'm online @:
--🕹️ [My Games](https://iwilliams.itch.io/)
--🐦 [Twitter](https://twitter.com/iwilliams_dev)
--🥚 [Cohost](https://cohost.org/iwilliams)
+- 🕹️ [My Games](https://iwilliams.itch.io/)
+- 🐦 [Twitter](https://twitter.com/iwilliams_dev)
+- 🥚 [Cohost](https://cohost.org/iwilliams)
 
 <!--
 **iwilliams/iwilliams** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
